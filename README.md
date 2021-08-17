@@ -4,7 +4,7 @@
 目的:  
 >入力データの時系列に従った各トークンの隠れ層を出力する  
 >時系列の一番最後に出力される隠れ層を得る   
-![encoder-images](./photo/encoder_attention_plot.onnx.png)  
+![encoder-images](./photo/encoder_attenstion_plot.onnx.png)  
 
 **Decoder layer**  
 手法: 単語埋め込み/アテンション層  
